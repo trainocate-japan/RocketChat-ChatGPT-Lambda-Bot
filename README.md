@@ -1,0 +1,2 @@
+# RocketChat-ChatGPT-Lambda-Bot
+RocketChatのBotでChatGPTを使用するためのAWS Lambda関数のコードです。AWS Lambda関数をデプロイして、RocketChatのBotとしてChatGPTを使用できます。
